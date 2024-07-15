@@ -34,3 +34,19 @@ This is a full-stack e-commerce web application built using React and plain CSS 
    ```bash
    git clone https://github.com/yourusername/ecommerce-website.git
    cd ecommerce-website
+
+2. # For the backend
+cd backend
+npm install
+
+3. # For the frontend
+cd ../client
+npm install
+
+4. # Start the backend server
+cd backend
+npm start
+
+5. # Start the frontend server
+cd ../frontend
+npm start
